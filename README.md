@@ -1,4 +1,4 @@
-<h1>팔로워 수</h1><hr>
+팔로워 수<<hr>
 ![GitHub followers](https://img.shields.io/github/followers/duck718?style=soc<ial)<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
