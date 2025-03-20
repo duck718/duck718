@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/duck718?style=social)
+![GitHub followers](https://img.shields.io/github/followers/duck718?style=social)<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
