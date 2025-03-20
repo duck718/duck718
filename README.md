@@ -1,5 +1,5 @@
 ## 팔로워 수<hr>
-![GitHub followers](https://img.shields.io/github/followers/duck718?style=soc<ial)<br>
+![GitHub followers](https://img.shields.io/github/followers/duck718?style=soc<ial)</hr><br>
 ## 랭귀지 뱃지<hr>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)<br>
 
