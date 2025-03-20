@@ -1,10 +1,11 @@
-팔로워 수<<hr>
-![GitHub followers](https://img.shields.io/github/followers/duck718?style=soc<ial)<br><hr>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+##팔로워 수<hr>
+![GitHub followers](https://img.shields.io/github/followers/duck718?style=soc<ial)<br>
+##랭귀지 뱃지<hr>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)<br>
 
 
 - 👋 Hi, I’m @duck718
-- 👀 I’m interested in aaa
+- 👀 I’m interested in 
 - 🌱 I’m currently learning bbb
 - 💞️ I’m looking to collaborate on ccc
 - 📫 How to reach me ddd
