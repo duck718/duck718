@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/duck718style=social)
+![GitHub followers](https://img.shields.io/github/followers/duck718?style=social)
 
 - 👋 Hi, I’m @duck718
 - 👀 I’m interested in aaa
